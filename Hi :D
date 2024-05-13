@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8>
+<meta name="viewport" content="width=device-width, initial-scale=1"
+<title>Sky COTL</title>
+<style>
+body {
+  background-image: url('https://marketplace.canva.com/EAFJJUKWnvw/1/0/283w/canva-purple-watercolor-leafs-stationery-paper-a4-YqQbj2YMsjQ.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
